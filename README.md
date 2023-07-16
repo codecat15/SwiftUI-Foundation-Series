@@ -7,6 +7,23 @@ In this tutorial series, you'll learn the fundamentals of SwiftUI, explore the p
 
 MyTask is a Todo list app developed using SwiftUI and Core Data. It offers a simple and intuitive interface to help you manage your tasks efficiently. This repository contains the source code and resources for the MyTask app, organized based on the corresponding tutorial episodes released on my YouTube channel.
 
+# Prerequisuite
+Before diving into the foundation series, I kindly recommend that you complete the SwiftUI beginners playlist. This will provide you with a solid understanding of the building blocks of SwiftUI and familiarize you with some essential property wrappers used in the foundation series. If you haven't watched the beginner series yet, I encourage you to do so.
+
+[Click on this link to watch the SwiftUI beginners playlist](https://www.youtube.com/playlist?list=PLb5R4QC2DtFuRFJ35uPMhpY90s0VMNR-i).
+
+# Tutorial Episodes for Phase 1
+
+1. Introduction to Foundation series and Creating the project
+  -  **Video Link:** WILL UPDATE ONCE VIDEO IS LIVE
+  -  **Repository Link:** [Starter template](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Project%20Template/MyTask)
+  -  **Description**: In this episode, we will talk about what the foundation series is and set up the project.
+
+2. Creating the Task Model and ViewModel
+   - **Video Link:** WILL UPDATE ONCE VIDEO IS LIVE
+   - **Repository Link:** [Day 1](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%201%20Model%20and%20ViewModel/MyTask)
+   - **Description:** In this episode we will create the task model and the corresponding view model.
+
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
 Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
