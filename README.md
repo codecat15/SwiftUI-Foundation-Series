@@ -15,12 +15,12 @@ Before diving into the foundation series, I kindly recommend that you complete t
 # Tutorial Episodes for Phase 1
 
 1. Introduction to Foundation series and Creating the project
-  -  **Video Link:** WILL UPDATE ONCE VIDEO IS LIVE
+  -  **Video Link:** [Introduction to foundation series](https://youtu.be/GUIOPDCHei0)
   -  **Repository Link:** [Starter template](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Project%20Template/MyTask)
   -  **Description**: In this episode, we will talk about what the foundation series is and set up the project.
 
 2. Creating the Task Model and ViewModel
-   - **Video Link:** WILL UPDATE ONCE VIDEO IS LIVE
+   - **Video Link:** [Create view and view model](https://youtu.be/TOxW8DgmTd4)
    - **Repository Link:** [Day 1](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%201%20Model%20and%20ViewModel/MyTask)
    - **Description:** In this episode we will create the task model and the corresponding view model.
 
