@@ -6,3 +6,12 @@ In this tutorial series, you'll learn the fundamentals of SwiftUI, explore the p
 # MyTask - SwiftUI Todo List App
 
 MyTask is a Todo list app developed using SwiftUI and Core Data. It offers a simple and intuitive interface to help you manage your tasks efficiently. This repository contains the source code and resources for the MyTask app, organized based on the corresponding tutorial episodes released on my YouTube channel.
+
+Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
+
+Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
+
+### Channel link: https://www.youtube.com/c/codecat
+
+Feel free to explore the source code, experiment with it, and follow along with the tutorial episodes to enhance your SwiftUI and Core Data skills. 
+Happy coding!
