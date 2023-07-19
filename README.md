@@ -26,7 +26,7 @@ Before diving into the foundation series, I kindly recommend that you complete t
    
 3. Adding a List view and filtering data on the list using Picker view
    - **Video Link:** [Create view and view model](https://youtu.be/KZW47Om_7Kw)
-   - **Repository Link:** [Day 1](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%201%20Model%20and%20ViewModel/MyTask)
+   - **Repository Link:** [Day 2](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%202%20Display%20data%20on%20the%20list%20%26%20filter%20it%20using%20Picker%20View/MyTask)
    - **Description:** In this episode we will display the list and use a picker view to filter the list record.
 
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
