@@ -31,7 +31,7 @@ Before diving into the foundation series, I kindly recommend that you complete t
 
 4. Building Add & Update view
    - **Video Link:** [Building Add & Update View](https://youtu.be/1OC3lOHbAt4)
-   - **Repository Link:** [Day 3]()
+   - **Repository Link:** [Day 3](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%203%20Building%20Add%20%26%20Update%20View/MyTask)
    - **Description:** In this episode we will build the add and update task view. 
 
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
