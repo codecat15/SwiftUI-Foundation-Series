@@ -29,6 +29,11 @@ Before diving into the foundation series, I kindly recommend that you complete t
    - **Repository Link:** [Day 2](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%202%20Display%20data%20on%20the%20list%20%26%20filter%20it%20using%20Picker%20View/MyTask)
    - **Description:** In this episode we will display the list and use a picker view to filter the list record.
 
+4. Building Add & Update view
+   - **Video Link:** [Building Add & Update View](https://youtu.be/1OC3lOHbAt4)
+   - **Repository Link:** [Day 3]()
+   - **Description:** In this episode we will build the add and update task view. 
+
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
 Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
