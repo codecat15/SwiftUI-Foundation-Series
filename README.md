@@ -32,7 +32,12 @@ Before diving into the foundation series, I kindly recommend that you complete t
 4. Building Add & Update view
    - **Video Link:** [Building Add & Update View](https://youtu.be/1OC3lOHbAt4)
    - **Repository Link:** [Day 3](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%203%20Building%20Add%20%26%20Update%20View/MyTask)
-   - **Description:** In this episode we will build the add and update task view. 
+   - **Description:** In this episode we will build the add and update task view.
+
+5. CRUD Functionality using temp storage
+   - **Video Link:** [CRUD Functionality using temp storage](https://youtu.be/kg0Tsl2r5jg)
+   - **Repository Link:** [Day 4]()
+   - **Description:** In this tutorial, we will cover the complete implementation of Create, Read, Update, and Delete functionality using a temporaray array.
 
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
