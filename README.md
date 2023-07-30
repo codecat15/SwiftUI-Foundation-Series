@@ -36,7 +36,7 @@ Before diving into the foundation series, I kindly recommend that you complete t
 
 5. CRUD Functionality using temp storage
    - **Video Link:** [CRUD Functionality using temp storage](https://youtu.be/kg0Tsl2r5jg)
-   - **Repository Link:** [Day 4]()
+   - **Repository Link:** [Day 4](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%204%20CRUD%20Functionality%20using%20temp%20storage/MyTask)
    - **Description:** In this tutorial, we will cover the complete implementation of Create, Read, Update, and Delete functionality using a temporaray array.
 
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
