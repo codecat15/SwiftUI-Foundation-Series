@@ -39,6 +39,11 @@ Before diving into the foundation series, I kindly recommend that you complete t
    - **Repository Link:** [Day 4](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%204%20CRUD%20Functionality%20using%20temp%20storage/MyTask)
    - **Description:** In this tutorial, we will cover the complete implementation of Create, Read, Update, and Delete functionality using a temporaray array.
 
+6. UI and Data validation
+   - **Video Link:** [UI and Data validation](https://youtu.be/qXL6Kft2mcQ)
+   - **Repository Link:** [Day 5](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%205%20UI%20%26%20Data%20Validations/MyTask)
+   - **Description:** In this episode, we'll dive into the topic of adding UI validations to our app.
+
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
 Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
