@@ -50,11 +50,11 @@ Introduction to Foundation series and Creating the project
 
 7. Implementing Core data
    - **Video Link:** [Implementing core data](https://youtu.be/HwmokDcqA_g)
-   - **Repository Link:** [Day 7]()
+   - **Repository Link:** [Day 7](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%207%20Implementing%20Core%20Data/MyTask)
 
 8. Error Handling
    - **Video Link:** [Error Handling](https://youtu.be/YfUuU9EE63A)
-   - **Repository Link:** [Day 8]()
+   - **Repository Link:** [Day 8](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%208%20Error%20Handling/MyTask)
 
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
