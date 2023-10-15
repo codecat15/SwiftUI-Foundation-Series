@@ -44,6 +44,18 @@ Introduction to Foundation series and Creating the project
    - **Repository Link:** [Day 5](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%205%20UI%20%26%20Data%20Validations/MyTask)
    - **Description:** In this episode, we'll dive into the topic of adding UI validations to our app.
 
+6. Identifying areas of improvements
+   - **Video Link:** [Identifying areas of improvements](https://youtu.be/Fps8BmO0Zm0)
+   - **Repository Link:** The session was all theory so there's no repository link for this video.
+
+7. Implementing Core data
+   - **Video Link:** [Implementing core data](https://youtu.be/HwmokDcqA_g)
+   - **Repository Link:** [Day 7]()
+
+8. Error Handling
+   - **Video Link:** [Error Handling](https://youtu.be/YfUuU9EE63A)
+   - **Repository Link:** [Day 8]()
+
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
 Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
