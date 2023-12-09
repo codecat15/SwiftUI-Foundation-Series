@@ -56,6 +56,13 @@ Introduction to Foundation series and Creating the project
    - **Video Link:** [Error Handling](https://youtu.be/YfUuU9EE63A)
    - **Repository Link:** [Day 8](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%208%20Error%20Handling/MyTask)
 
+9. Combine Introduction
+   - **Video Link:** [Combine Introduction](https://youtu.be/mVMv9MyOVqE)
+
+10. Combine Implementation
+   - **Video Link:** [Combine Implementation](https://youtu.be/pdKSL3gNTZI)
+   - **Repository Link:** [Day 10](https://github.com/codecat15/SwiftUI-Foundation-Series/tree/main/Phase%201/Day%2010%20Combine%20Implementation)
+
 Stay tuned for more tutorial episodes to complete the full functionality of the MyTask app. 
 
 Make sure to subscribe to my YouTube channel for updates and notifications when new episodes are released.
